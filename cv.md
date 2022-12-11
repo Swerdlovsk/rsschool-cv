@@ -1,4 +1,4 @@
-![avatar](avatar.jpg "It's me")
+![avatar](img/avatar.jpg "It's me")
 1. **Name**:
  
    Andrew Pasynkov
