@@ -5,7 +5,7 @@
 
 2. **Contacts**:
 
-   email: swerdlovsk.ivan@gmail.com
+   email: [swerdlovsk.ivan@gmail.com](mailto:swerdlovsk.ivan@gmail.com)
    
    Discord Tag: Swerdlovsk#5232
 3. **About me**
