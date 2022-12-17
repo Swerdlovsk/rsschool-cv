@@ -15,7 +15,7 @@
 
 4. **Skills**
 
-     A general, superficial view of HTML.
+     An ordinary and superficial experience with HTML.
 
 5. **Code examples**
 
